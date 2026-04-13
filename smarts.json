@@ -1,0 +1,10 @@
+{
+  "version": 1.0,
+  "aisleOverrides": {
+    "hoisin sauce": "International",
+    "gochujang": "International"
+  },
+  "parserSettings": {
+    "ignoreStrings": ["Advertisement", "Jump to Recipe"]
+  }
+}
